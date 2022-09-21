@@ -5,7 +5,7 @@ Aprimorar meus conhecimentos em programação colocando em prática o que eu apr
 
  <h2>Funcionamento</h2>
  <ul>
-  <li>Escreva a atividade que precisa realizar e pressione ENTER</li>
+  <li>Escreva a atividade que precisa realizar e pressione ENTER.</li>
    <li>Marque o campo vazio da esquerda ao realizar a ativade.</li>
    <li>Clique no "x" para apagar uma atividade.</li>
    
